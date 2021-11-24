@@ -5,8 +5,18 @@ MNC Company HR Data
 
 ## Project Proposal
 
+Our project is to predict job retention based on: 
+satisfaction level, 
+results of the last evaluation,
+number of project completed, 
+average montly hours, 
+number of years with the company, 
+the occurrence of work accidents, 
+whether the employee recieved a promotion in the last five years, 
+department, 
+and salary.
 
-Write this as a brief summary of your interests and intent, including:
+We will create a predictive model using __________ ...
 
 * The kind of data you'd like to work with and the field you're interested in (e.g., trading, quantitative analysis).
 
@@ -20,7 +30,7 @@ This constitutes your Project Proposal and Outline, and it should look something
 
 ## Finding Data
 
-The we decided to use MNC company HR data from Kaggle. 
+We decided to use MNC company HR data from Kaggle. 
 https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics
 
 
