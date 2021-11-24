@@ -29,6 +29,8 @@ https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics
 1. Change the data from xlsx format to csv format.
 2. Change the percentage data to decimal format
 3. Removed the emp ID
+4. Binary Code the salary and department columns
+5. Scale the Data 
 Machine learning typically requires extensive data preparation before the model can be trained. Use Jupyter, Google Colab, or AWS SageMaker to prepare a training and testing dataset and to train the machine-learning model.
 
 Use the training data to fit the model.
@@ -46,3 +48,4 @@ Summarize your conclusions and predictions. This should include a numerical summ
 ## Presentation
 
 
+https://docs.google.com/presentation/d/14WocU3Hvgyt79hxfmT5bdSjsQbcBTe218ilCIrmqbKo/edit?usp=sharing
