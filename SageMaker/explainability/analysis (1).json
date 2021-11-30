@@ -1,0 +1,32 @@
+{
+    "explanations": {
+        "kernel_shap": {
+            "label0": {
+                "expected_value": -5.870817441069047,
+                "global_shap_values": {
+                    "Department_IT": 0.044452278505913025,
+                    "Department_RandD": 0.048206492438444194,
+                    "Department_accounting": 0.047797654279310466,
+                    "Department_hr": 0.05198248934858069,
+                    "Department_management": 0.043550319507264214,
+                    "Department_marketing": 0.036173227221643386,
+                    "Department_product_mng": 0.044715086324009126,
+                    "Department_sales": 0.156073475085958,
+                    "Department_support": 0.07987097057620372,
+                    "Department_technical": 0.08948183602321871,
+                    "Work_accident": 0.11402012528447614,
+                    "average_montly_hours": 3.1882370364018904,
+                    "last_evaluation": 2.727588698606719,
+                    "number_project": 1.4646443967338914,
+                    "promotion_last_5years": 0.035145882566383325,
+                    "salary_high": 0.06572086540568957,
+                    "salary_low": 0.3005518828608828,
+                    "salary_medium": 0.18639768973528695,
+                    "satisfaction_level": 8.525153087559284,
+                    "time_spend_company": 0.8298367217901834
+                }
+            }
+        }
+    },
+    "version": "1.0"
+}
