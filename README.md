@@ -36,16 +36,23 @@ https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics
 
 ## Data Preparation & Model Training
 
-1. Change the data from xlsx format to csv format.
-2. Change the percentage data to decimal format
-3. Removed the emp ID
-Machine learning typically requires extensive data preparation before the model can be trained. Use Jupyter, Google Colab, or AWS SageMaker to prepare a training and testing dataset and to train the machine-learning model.
+1. Change the percentage data to decimal format
+2. Dropped the emp ID column
 
-Use the training data to fit the model.
+Used Jupyter lab and AWS SageMaker to prepare a training and testing dataset and to train the machine-learning models.
+
 
 ## Model Evaluation
 
-Use the testing data to evaluate the model. Create any necessary tables, charts, plots, or statistical analysis to report the model performance.
+Use the testing data to evaluate the model (X amount of models) to see which model would be the best model to use for our data. 
+
+We used the following models:
+* Logistic Regression Model
+* Decistion Tree Model
+* Gradient Boosted Tree Model
+* Random Forest Model
+* Gaussian Naive Bayes Model
+* Support Vector Machines
 
 ## Predictions and Conclusions
 
