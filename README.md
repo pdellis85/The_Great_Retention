@@ -48,7 +48,7 @@ Use the testing data to evaluate the model (X amount of models) to see which mod
 
 We used the following models:
 * Logistic Regression Model
-* Decistion Tree Model
+* Decision Tree Model
 * Gradient Boosted Tree Model
 * Random Forest Model
 * Gaussian Naive Bayes Model
