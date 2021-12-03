@@ -9,7 +9,7 @@ Consulting for a Multinational Corporation about their HR Data and Employee Rete
 
 ## Finding Data
 
-We decided to use MNC company HR data from Kaggle. 
+We decided to use Multinational Corporation HR data from Kaggle. 
 https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics
 
 
