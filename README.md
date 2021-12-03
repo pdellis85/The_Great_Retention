@@ -1,6 +1,6 @@
 # The Great Retention
 
-Multinational Corporation HR Data
+Consulting for a Multinational Corporation about their HR Data and Employee Retention Strategy.
 
 
 ## Project Proposal
