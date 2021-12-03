@@ -1,32 +1,11 @@
 # The Great Retention
 
-MNC Company HR Data
+Multinational Corporation HR Data
 
 
 ## Project Proposal
 
-Our project is to predict job retention based on: 
-satisfaction level, 
-results of the last evaluation,
-number of project completed, 
-average montly hours, 
-number of years with the company, 
-the occurrence of work accidents, 
-whether the employee recieved a promotion in the last five years, 
-department, 
-and salary.
-
-We will create a predictive model using __________ ...
-
-* The kind of data you'd like to work with and the field you're interested in (e.g., trading, quantitative analysis).
-
-* Possible source for such data.
-
-* Candidate machine learning or statistical models that you may want to explore.
-
-This constitutes your Project Proposal and Outline, and it should look something like this:
-
-> Our project is to predict credit card fraud. We'll fit a random forest algorithm to lending club data to create a predictive model. We will also fit a deep neural network model to the data and compare the performance of both models to determine which has sufficient predictive power.
+> For our project we will try to create predictions to see if an employee will stay or leave a company. We'll fit several algorithm models (see list below) to HR data to create a predictive model as well as plot the top 5 employee importance feature graph.
 
 ## Finding Data
 
@@ -39,12 +18,28 @@ https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics
 1. Change the percentage data to decimal format
 2. Dropped the emp ID column
 
-Used Jupyter lab and AWS SageMaker to prepare a training and testing dataset and to train the machine-learning models.
+We used Jupyter lab and AWS SageMaker to prepare a training and testing dataset and to train the machine-learning models.
 
+Here are the columns within the HR data:
+
+* Emp_Id: Id of Employee.
+* satisfaction_level: Satisfaction level of employee in percentage. 100% or 1 is very satisfied. 0% or 0 is not satisfied.
+* last_evaluation: Time from last evaluation in years.
+* number_project: Number of projects an employee is working on.
+* average_montly_hours: Average hours worked by employees in the last 3 months.
+* time_spend_company: Time spent by my employee commuting to the office.
+* Work_accident: If the employee was involved in a work accident.
+* left: If the employee has left the company.
+* promotion_last_5years: If the employee has a promotion in the past 5 years.
+* Department: Department employee is working in.
+* Salary: Salary Range from low to high
+
+
+Our Target value for training all the models was the "left" column
 
 ## Model Evaluation
 
-Use the testing data to evaluate the model (X amount of models) to see which model would be the best model to use for our data. 
+Use the testing data to evaluate 7 models to see which model would be the best model to use for our predictions and graphs. 
 
 We used the following models:
 * Logistic Regression Model
@@ -53,11 +48,11 @@ We used the following models:
 * Random Forest Model
 * Gaussian Naive Bayes Model
 * Support Vector Machines
+* XGBOOST Model
 
 ## Predictions and Conclusions
 
-Summarize your conclusions and predictions. This should include a numerical summary (what data your model yielded), as well as visualizations of that summary (plots of the final model evaluation and predictions).
-
+The summarization, conclusion and predictions can be found in the PDF presentation below.
 
 
 ## Presentation
