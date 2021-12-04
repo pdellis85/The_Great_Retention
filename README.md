@@ -57,4 +57,4 @@ The summarization, conclusion and predictions can be found in the PDF presentati
 
 ## Presentation
 
-* https://docs.google.com/presentation/d/14WocU3Hvgyt79hxfmT5bdSjsQbcBTe218ilCIrmqbKo/edit?usp=sharing
+[PowerPoint Presentation](/guides/content/editing-an-existing-page)
