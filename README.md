@@ -57,4 +57,4 @@ The summarization, conclusion and predictions can be found in the PDF presentati
 
 ## Presentation
 
-[PowerPoint Presentation](/guides/content/editing-an-existing-page)
+[PowerPoint Presentation](/guides/content/editing-an-existing-page)https://github.com/pdellis85/The_Great_Retention/blob/833552a4eeb728c69a72a310ce1948b12d7a4f4f/The%20Great%20Retention.pdf
